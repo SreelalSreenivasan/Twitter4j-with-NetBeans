@@ -89,10 +89,10 @@ public class NewJFrame extends javax.swing.JFrame {
     private void ClickActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ClickActionPerformed
         // TODO add your handling code here:
         
-        String consKey="qBDoAQT4jV0BI3vePj1GkBvtC";
-        String consSecret="WvAL3VscZWCikyQAtxlHPfdIDWJDbGVxDsxzDzfZW9CsTOT2Iv";
-        String accToken="3299238608-qAqwFyQ8i3hv66DGxl0O0CiBfxDbPURtTgkUTmX";
-        String accSecret="c6Ubr7Vooe2IXSKVdlhYJjH0SD488zd9ZN5Cr73yUHFTA";
+        String consKey="Your key";
+        String consSecret="Your Secret";
+        String accToken="Your token";
+        String accSecret="Your secret";
         
         
         
